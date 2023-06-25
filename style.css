@@ -29,6 +29,7 @@ body{
   display: grid;
   border-radius: 0.5rem;
   max-width: 1000px;
+  height: 400px;
   overflow: hidden;
 }
 @media (min-width: 1000px){
