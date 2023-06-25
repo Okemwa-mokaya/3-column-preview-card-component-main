@@ -28,10 +28,10 @@ body{
 .card{
   display: grid;
   border-radius: 0.5rem;
-  max-width: 800px;
+  max-width: 1000px;
   overflow: hidden;
 }
-@media (min-width: 800px){
+@media (min-width: 1000px){
     .card{
       grid-template-columns: 1fr 1fr 1fr;
     }
